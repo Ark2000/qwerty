@@ -6,8 +6,10 @@ This repository has no particular subject, just some random toys mix together.
 
 Include some algorithms generating fancy maze and function drawing which to pictures.
 
-![img](https://s2.ax1x.com/2020/01/19/1C56dP.md.png)
+![img](https://s2.ax1x.com/2020/01/19/1C56dP.png)
 
-![img](https://s2.ax1x.com/2020/01/19/1C55ss.md.png)
+![img](https://s2.ax1x.com/2020/01/19/1C55ss.png)
 
-## to be continued...
+![img](https://s2.ax1x.com/2020/01/20/1i751f.png)
+
+## to be continued
