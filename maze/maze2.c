@@ -1,15 +1,8 @@
 #include "matrix.h"
-#include <time.h>
 
-typedef struct
+Matrix PrimTree(int sz, int seed)
 {
-	int r;
-	int c;
-} vec2;
-
-Matrix PrimTree(int sz)
-{
-	srand(time(0));
+	srand(seed);
 	const int adj[4][2] = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
 	Matrix m = NewMatrix(sz);

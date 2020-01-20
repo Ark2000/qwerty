@@ -6,6 +6,11 @@
 
 typedef int* Matrix;
 
+typedef struct {
+	int r;
+	int c;
+} vec2;
+
 Matrix NewMatrix(int sz);
 
 void DelMatrix(Matrix m);

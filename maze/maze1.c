@@ -1,8 +1,8 @@
 #include "matrix.h"
-#include "time.h"
-Matrix DrunkWalk(int sz)
+
+Matrix DrunkWalk(int sz, int seed)
 {
-	srand(time(0));
+	srand(seed);
 
 	Matrix m = NewMatrix(sz);
 
