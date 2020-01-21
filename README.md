@@ -12,4 +12,6 @@ Include some algorithms generating fancy maze and function drawing which to pict
 
 ![img](https://s2.ax1x.com/2020/01/20/1i751f.png)
 
+![img](https://s2.ax1x.com/2020/01/21/1kivEn.png)
+
 ## to be continued
